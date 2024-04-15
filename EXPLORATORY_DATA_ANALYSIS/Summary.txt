@@ -1,1 +1,1 @@
-
+The Jupyter Notebook contains an in-depth and comprehensive exploratory analysis to identify market trends.
