@@ -1,0 +1,1 @@
+The notebook shows the process for building and training models to perform classification tasks and it was deployed on streamlit. 
